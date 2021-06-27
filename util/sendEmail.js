@@ -4,7 +4,7 @@ module.exports = async function (options) {
     const transporter = nodemailer.createTransport({
         auth: {
             user: "pankajpal202123@gmail.com",
-            pass: "Mamgain@23",
+            pass: "tctfprmqsbzjzfia",
         },
         secure: true,
         host: "smtp.gmail.com",
